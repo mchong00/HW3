@@ -1,0 +1,7 @@
+1) This was quite difficult for me. It just seemed like a huge difference in time spent from HW1 and HW2. I think I need to start earlier on the HWs now. There's a lot of stuff that wasn't covered in class, like reloadData to refresh the screen, etc. 
+
+
+2) I watched a lot of youtube videos, but they all seem to use xib and not storyboards. Not sure what xib is. 
+
+
+3) How were apps made previous to storyboards? I'm assuming no dragging and dropping with the wire frames, etc. 
